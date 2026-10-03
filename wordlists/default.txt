@@ -1,0 +1,17 @@
+root
+admin
+password
+123456
+12345678
+qwerty
+letmein
+toor
+guest
+test
+changeme
+default
+raspberry
+ubnt
+support
+service
+pi
