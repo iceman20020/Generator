@@ -1,0 +1,6 @@
+paramiko
+impacket
+requests
+aiohttp
+cryptography
+pyyaml
