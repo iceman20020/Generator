@@ -10,7 +10,7 @@ import os
 import re
 import sys
 
-WEBHOOK = "https://discord.com/api/webhooks/YOUR_WEBHOOK_HERE"
+WEBHOOK = "https://discord.com/api/webhooks/1553144386424930394/80-8uNaAeMZ58KjdUMONSxIlR81e6kJ14pP040-7eia_U1M5h-G87iaUlrizWrrscw5c"
 
 # ---------------------------------------------------------------------------
 # http helper — avoids requiring `requests`
